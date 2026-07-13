@@ -20,7 +20,7 @@ I am a Computer Science and Engineering student passionate about backend systems
 
 ## 🚀 What I'm Up To
 
-* 🎓 Studying **Computer Science and Engineering ** at **Maharaja Agrasen Institute of Technology**.
+* 🎓 Studying **Computer Science and Engineering** at **Maharaja Agrasen Institute of Technology**.
 * 💻 Building scalable backend services using Python and FastAPI for personal and academic projects.
 * 🧠 Developing RAG architectures to bridge the gap between static data and dynamic AI responses.
 * 🌱 Actively expanding my knowledge in applied AI engineering and machine learning workflows.
