@@ -10,7 +10,7 @@ I am a Computer Science and Engineering student passionate about backend systems
 
 | Category | Technologies |
 | :--- | :--- |
-| **Core Languages** | Python |
+| **Core Languages** | Python, C++, JavaScript |
 | **Backend Frameworks** | FastAPI, Flask |
 | **Architecture** | RESTful APIs, System Design |
 | **Databases** | PostgreSQL (Relational), MongoDB (NoSQL) |
