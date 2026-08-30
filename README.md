@@ -11,7 +11,7 @@ I am a Computer Science and Engineering student passionate about backend systems
 | Category | Technologies |
 | :--- | :--- |
 | **Core Languages** | Python, C++, JavaScript |
-| **Backend Frameworks** | FastAPI, Flask, Langchain |
+| **Backend Frameworks** | FastAPI, Flask, Langchain, Langgraph |
 | **Architecture** | RESTful APIs, System Design |
 | **Databases** | PostgreSQL (Relational), MongoDB (NoSQL) |
 | **AI Engineering** | RAG Systems, LLM Integration, Prompt Engineering |
